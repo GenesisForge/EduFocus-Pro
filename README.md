@@ -238,7 +238,7 @@ For deployment assistance, contact: edufocusbusiness@gmail.com
 - **[Security Policy](docs/developer/SECURITY.md)** - Report security issues
 
 ### Legal & History
-- **[License](docs/legal/LICENSE)** - Proprietary license terms
+- **[License](LICENSE)** - Proprietary license terms
 - **[Changelog](docs/history/CHANGELOG.md)** - Version history and updates
 - **[Privacy Policies](docs/legal/privacy/)** - Privacy policy in multiple languages
 
@@ -420,5 +420,6 @@ Your support helps us continue improving educational technology for everyone.
 
 Copyright © 2025 Genesis Forge. All Rights Reserved.  
 EduFocus Pro - Privacy-First Education Technology
+
 
 Version 3.5.2 | Last Updated: October 2025
