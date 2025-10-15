@@ -238,7 +238,7 @@ For deployment assistance, contact: edufocusbusiness@gmail.com
 - **[Security Policy](docs/developer/SECURITY.md)** - Report security issues
 
 ### Legal & History
-- **[License](LICENSE)** - Proprietary license terms
+- **[License](LICENSE.md)** - Proprietary license terms
 - **[Changelog](docs/history/CHANGELOG.md)** - Version history and updates
 - **[Privacy Policies](docs/legal/privacy/)** - Privacy policy in multiple languages
 
@@ -423,3 +423,4 @@ EduFocus Pro - Privacy-First Education Technology
 
 
 Version 3.5.2 | Last Updated: October 2025
+
