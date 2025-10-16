@@ -102,7 +102,7 @@ Impact:
 * Could manipulate or exfiltrate user notes
 * Affects all users on version 3.5.3
 
-Affected Version: 3.5.3
+Affected Version: 1.0.0
 Browser: Chrome 120.0.6099.109
 OS: Windows 11
 Suggested Fix:
@@ -260,20 +260,6 @@ We maintain a security researcher hall of fame to acknowledge those who help kee
 - Security patches deployed quickly
 - Users notified of critical updates
 - Automatic updates through Chrome Web Store
-
----
-
-## 📊 Security Audit History
-
-### Internal Audits
-
-| Date | Version | Findings | Status |
-|------|---------|----------|--------|
-| Oct 2025 | 3.5.3 | Initial security review | ✅ Passed |
-
-### External Audits
-
-We welcome independent security audits. If you're interested in conducting a formal security audit, please contact us at edufocusbusiness@gmail.com
 
 ---
 
