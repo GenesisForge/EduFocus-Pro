@@ -2,7 +2,7 @@
 
 **Privacy-First Education Technology**
 
-EduFocus Pro is a comprehensive Chrome extension designed to help students study effectively while respecting their privacy. With advanced features including timers, note-taking, flashcards, quizzes, and accessibility tools, EduFocus Pro provides everything students need for educational excellence—completely free and 100% private.
+EduFocus Pro is a comprehensive Chrome extension designed to help students study effectively while respecting their privacy. With advanced features including timers, note-taking, flashcards, quizzes, and accessibility tools, EduFocus Pro provides everything students need for educational excellence - completely free and 100% private.
 
 ---
 
@@ -46,7 +46,7 @@ EduFocus Pro is a comprehensive Chrome extension designed to help students study
 - Full-text search across all notes
 - Voice-to-text dictation
 - Export notes as JSON or plain text
-- Automatic saving—never lose your work
+- Automatic saving - never lose your work
 
 **Flashcard System**
 - Create unlimited flashcard decks
@@ -107,7 +107,7 @@ More languages coming soon! See [Translation Guide](docs/developer/TRANSLATION_G
 - Import data from previous exports
 - Clear all data option
 - Storage usage monitoring
-- No account required—you own your data
+- No account required - you own your data
 
 ---
 
@@ -135,7 +135,7 @@ More languages coming soon! See [Translation Guide](docs/developer/TRANSLATION_G
 1. Click the EduFocus Pro icon in your Chrome toolbar
 2. Select your preferred language
 3. Explore the welcome tutorial 
-4. Start using any feature immediately—no setup required
+4. Start using any feature immediately - no setup required
 
 ### Basic Workflow
 
@@ -182,7 +182,7 @@ Deploy EduFocus Pro across your institution using Chrome policy management.
 
 ### Benefits for Schools
 
-✅ **Privacy Compliant:** No student data collection—meets GDPR, FERPA, COPPA requirements  
+✅ **Privacy Compliant:** No student data collection - meets GDPR, FERPA, COPPA requirements  
 ✅ **Zero Cost:** No budget impact, no procurement process  
 ✅ **Offline Capable:** Works without internet connection  
 ✅ **No Accounts:** No passwords to manage, no login issues  
@@ -238,7 +238,7 @@ For deployment assistance, contact: edufocusbusiness@gmail.com
 - **[Security Policy](docs/developer/SECURITY.md)** - Report security issues
 
 ### Legal & History
-- **[License](LICENSE.md)** - Proprietary license terms
+- **[License](docs/legal/LICENSE)** - Proprietary license terms
 - **[Changelog](docs/history/CHANGELOG.md)** - Version history and updates
 - **[Privacy Policies](docs/legal/privacy/)** - Privacy policy in multiple languages
 
@@ -406,9 +406,8 @@ Your support helps us continue improving educational technology for everyone.
 
 ## 📱 Stay Connected
 
-**Website:** Coming soon  
 **Email:** edufocusbusiness@gmail.com  
-**Chrome Web Store:** Coming soon
+**Chrome Web Store:** https://chromewebstore.google.com/detail/edufocus-pro/nhlnpgdopohfdbkfhlamampmeehjnojp
 
 ---
 
@@ -421,6 +420,4 @@ Your support helps us continue improving educational technology for everyone.
 Copyright © 2025 Genesis Forge. All Rights Reserved.  
 EduFocus Pro - Privacy-First Education Technology
 
-
 Version 3.5.2 | Last Updated: October 2025
-
