@@ -194,7 +194,7 @@ This often means your IT department has restricted extension installations. You'
 2. **Check system notifications:**
    - **Windows:** Settings → System → Notifications → Chrome → ON
    - **Mac:** System Preferences → Notifications → Chrome → Allow
-   - **Linux:** Varies by distribution—check system settings
+   - **Linux:** Varies by distribution - check system settings
 
 
 ### Timer Inaccurate
@@ -420,7 +420,7 @@ This often means your IT department has restricted extension installations. You'
 2. **Verify file isn't corrupted:**
    - Open JSON file in text editor
    - Should be readable (though complex)
-   - If gibberish, file is corrupted—use another backup
+   - If gibberish, file is corrupted - use another backup
 
 3. **Check file size:**
    - Very large decks may take time to import
@@ -1102,7 +1102,6 @@ EduFocus Pro is a desktop Chrome extension only. It does not work on mobile brow
 
 **Subject:** Support Request - Notes not saving properly
 
-**EduFocus Pro Version:** 3.5.3
 **Chrome Version:** 120.0.6099.109
 **Operating System:** Windows 11
 
