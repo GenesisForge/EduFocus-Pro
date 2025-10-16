@@ -305,7 +305,6 @@ Want to see your name here? Check our [Translation Guide](docs/developer/TRANSLA
 
 ## 📊 Project Status
 
-**Current Version:** 3.5.2
 **Status:** Active Development  
 **Last Updated:** October 2025  
 **Supported Browsers:** Chrome 88+, Edge 88+, Brave, Opera
