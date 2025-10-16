@@ -420,4 +420,4 @@ Your support helps us continue improving educational technology for everyone.
 Copyright © 2025 Genesis Forge. All Rights Reserved.  
 EduFocus Pro - Privacy-First Education Technology
 
-Version 3.5.2 | Last Updated: October 2025
+Last Updated: October 2025
