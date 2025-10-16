@@ -32,7 +32,7 @@ EduFocus Pro is a comprehensive Chrome extension designed to help students study
 - Statistics and progress tracking
 - Accessibility features for diverse learners
 
-All features are completely free and respect your privacy—no data collection, no tracking, no accounts required.
+All features are completely free and respect your privacy - no data collection, no tracking, no accounts required.
 
 ### Who created EduFocus Pro?
 
@@ -53,7 +53,7 @@ There are no premium features, paywalls, subscriptions, or hidden costs. Every f
 
 **Truly Free:** No freemium model, no paid tiers, no subscriptions.
 
-**Comprehensive:** Everything you need in one tool—no juggling multiple apps.
+**Comprehensive:** Everything you need in one tool - no juggling multiple apps.
 
 **Accessible:** Built-in features for diverse learners, including dyslexia support.
 
@@ -523,7 +523,7 @@ We provide:
 - Email support (edufocusbusiness@gmail.com)
 - Setup assistance for IT departments
 
-Custom training sessions may be available for large deployments—contact us to discuss.
+Custom training sessions may be available for large deployments - contact us to discuss.
 
 ### What if students forget to backup their data?
 
