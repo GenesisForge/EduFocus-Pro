@@ -1,4 +1,4 @@
-# PROPRIETARY LICENSE
+# PROPRIETARY LICENSE (FOR THE EXTENSION)
 
 **Copyright © 2025 Genesis Forge. All Rights Reserved.**
 
@@ -615,7 +615,6 @@ Genesis Forge thanks the following for their contributions to EduFocus Pro:
 **License Version:** 2.0  
 **Effective Date:** October 1, 2025  
 **Last Updated:** October 5, 2025  
-**Software Version:** 3.5.3
 
 ---
 
