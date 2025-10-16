@@ -192,7 +192,7 @@ Email: [For follow-up questions]
 **Bug Report:** Timer notifications not appearing
 
 **ENVIRONMENT:**
-* EduFocus Pro Version: 3.5.3
+* EduFocus Pro Version: 1.0.0
 * Chrome Version: 120.0.6099.109
 * Operating System: Windows 11
 * Browser Language: English
