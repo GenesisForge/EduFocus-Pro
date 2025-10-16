@@ -175,32 +175,6 @@ Public Acknowledgment: Yes please
 6. **Disclosure** - We publicly disclose (coordinated with reporter)
 7. **Recognition** - We credit the reporter (if desired)
 
----
-
-## 🏆 Security Researcher Recognition
-
-### Hall of Fame
-
-We maintain a security researcher hall of fame to acknowledge those who help keep EduFocus Pro secure.
-
-**Current Contributors:**
-*(None yet - be the first!)*
-
-### Credit Policy
-
-**We offer:**
-- Public acknowledgment in our security advisories
-- Credit in release notes
-- Listing in our security hall of fame (README)
-- Our sincere gratitude
-
-**We currently do not offer:**
-- Monetary bug bounties (may change in the future)
-- Merchandise or swag
-- Financial compensation
-
----
-
 ## 🔐 Security Best Practices for Users
 
 ### Protecting Your Data
