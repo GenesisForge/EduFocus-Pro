@@ -692,7 +692,7 @@ Q: How long will this take?
 A: Most translators complete it in 6-9 hours total, usually over 1-2 weeks. Work at your own pace.
 
 Q: What if I make mistakes?
-A: We'll review everything and work with you to make corrections. Don't worry about perfection—we'll refine it together.
+A: We'll review everything and work with you to make corrections. Don't worry about perfection - we'll refine it together.
 
 Q: Can I translate just part of it?
 A: We prefer complete translations, but if you can only do certain sections, let us know. We might be able to find someone to complete the rest.
@@ -708,7 +708,7 @@ Q: I don't know how to edit JSON files. Can you help?
 A: Yes! We can provide a spreadsheet format instead, or guide you through using a text editor.
 
 Q: What if my language reads right-to-left (RTL)?
-A: Great question! Let us know—we'll need to make additional UI adjustments. We can work together on this.
+A: Great question! Let us know - we'll need to make additional UI adjustments. We can work together on this.
 
 Q: My language has formal/informal forms. Which should I use?
 A: Use informal (tu/du) rather than formal (vous/Sie). EduFocus Pro targets students, so a friendly tone is appropriate.
@@ -721,7 +721,7 @@ A: Prefer standard/neutral dialect that's widely understood. For example, "Espa�
 
 ### Translation Questions
 Q: Some English phrases don't translate well. What should I do?
-A: Translate the meaning/intent rather than word-for-word. When in doubt, ask us—we can adjust the original English if needed.
+A: Translate the meaning/intent rather than word-for-word. When in doubt, ask us - we can adjust the original English if needed.
 
 Q: Should I translate "Pomodoro"?
 A: "Pomodoro Technique" is internationally recognized, so keeping "Pomodoro" is fine. You can add explanation in tooltips.
@@ -734,7 +734,7 @@ A: Absolutely! If something works better in your language with a UI change, let 
 
 ### Credit & Recognition
 Q: Can I use a pseudonym?
-A: Yes! You can be credited however you like—real name, username, pseudonym, or anonymously.
+A: Yes! You can be credited however you like - real name, username, pseudonym, or anonymously.
 
 Q: Will you link to my website/portfolio?
 A: Yes, if you'd like! We're happy to link to your website, GitHub, or professional profile.
